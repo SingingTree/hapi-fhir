@@ -785,7 +785,7 @@
 		<jetty_version>9.4.35.v20201120</jetty_version>
 		<jsr305_version>3.0.2</jsr305_version>
 		<junit_version>5.7.0</junit_version>
-		<flyway_version>6.5.4</flyway_version>
+		<flyway_version>7.7.0</flyway_version>
 		<hibernate_version>5.4.26.Final</hibernate_version>
 		<hibernate_search_version>6.0.0.Final</hibernate_search_version>
 		<!-- Update lucene version when you update hibernate-search version -->
